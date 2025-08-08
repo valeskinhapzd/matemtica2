@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>colegio campos sales</h1>
+    </header>
+    <ul>
+    <li><a href="pagina</a></li>
+    <li><a href="aluno.html">alunos</a></li>
+    <li><a href="armarios.html"><armarios></a></li>
+    <li><a href="emprestimos.html">emprestimos</a><li>
+
+    </ul>
+    <nav>
+<main>
+     pagina inicial
+    </nav>
+    <footer></footer>
+</body>
+</html>
